@@ -1,3 +1,4 @@
+script.js
 document.addEventListener('DOMContentLoaded', () => {
     // ----------------------------------------------------
     // 0. 전역 요소 및 상태 관리
@@ -511,4 +512,5 @@ document.addEventListener('DOMContentLoaded', () => {
     renderCalendar();
     renderTodoList();
     renderUpcomingEvents();
+
 });
